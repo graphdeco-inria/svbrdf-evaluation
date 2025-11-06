@@ -1,0 +1,3 @@
+name: ip-adapter-plus_sd15.bin
+size: 158 MB
+md5: a50be6ac20883c4969c7bb60d5f2a46b

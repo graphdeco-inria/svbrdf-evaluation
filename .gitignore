@@ -1,0 +1,9 @@
+.vscode/launch.json
+*.pyc
+*.bin
+*.zip
+
+data/
+output/
+checkpoints/
+
