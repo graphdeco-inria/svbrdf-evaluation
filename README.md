@@ -181,7 +181,10 @@ Name of the conf file linked with the ckpt
 
 ## 🚀 TODO List:
 
+Upon requests (via github issues)
+
 - \[✅\] Scene texturing code
+- \[🚀\] Dataset upload (or code to denoise and filter)
 - \[🚀\] Training code
 - \[🚀\] Blender scene export scripts
 - \[🚀\] Per-view SVBRDF estimation  
